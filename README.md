@@ -1,6 +1,7 @@
 # sdl.Die
 
-## Relevant concepts: OpenGL ES, Timer, Gyro 
+## Relevant concepts: 
+- OpenGL ES, Timer, Gyro 
 
 ## Feature added:
 - Added new 3D object: Prism.
